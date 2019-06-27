@@ -1,0 +1,34 @@
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\bin\Debug\ProjekatProba2.exe.config
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\bin\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\bin\Debug\ProjekatProba2.pdb
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.csprojAssemblyReference.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.Form1.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.Properties.Resources.resources
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.csproj.GenerateResource.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.csproj.CoreCompileInputs.cache
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\source\repos\ProjekatProba2\obj\Debug\ProjekatProba2.pdb
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.csprojAssemblyReference.cache
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.Form1.resources
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.Properties.Resources.resources
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.csproj.GenerateResource.cache
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.csproj.CoreCompileInputs.cache
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.pdb
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\bin\Debug\ProjekatProba2.exe.config
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\bin\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\bin\Debug\ProjekatProba2.pdb
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.FormaZaPotvrdu.resources
+C:\Users\Bokkacheck\Desktop\TVP 2 PROJEKAT\ProjekatProba2\obj\Debug\ProjekatProba2.Form2.resources
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\bin\Debug\ProjekatProba2.exe.config
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\bin\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\bin\Debug\ProjekatProba2.pdb
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.csprojAssemblyReference.cache
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.Form1.resources
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.Form2.resources
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.FormaZaPotvrdu.resources
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.Properties.Resources.resources
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.csproj.GenerateResource.cache
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.csproj.CoreCompileInputs.cache
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.exe
+C:\Users\Bokkacheck\Desktop\BojanStojkovicNRT417\obj\Debug\ProjekatProba2.pdb
